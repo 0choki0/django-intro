@@ -27,7 +27,7 @@ pip install django
 
 5. 서버 실행 확인(종료 `Ctrl + c`)
 ```
-python manage.py runsever
+python manage.py runserver
 ```
 
 6. 앱생성
@@ -59,3 +59,4 @@ def index(request):
 10. templates 폴더 생성 => index.html
 
 ## MTV
+![MTV](./assets/MTV.png)
